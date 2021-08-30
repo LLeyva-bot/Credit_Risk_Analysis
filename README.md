@@ -17,7 +17,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 ![Fig1](https://github.com/LLeyva-bot/Credit_Risk_Analysis/blob/main/Images/Fig1.png)
 ![Fig2](https://github.com/LLeyva-bot/Credit_Risk_Analysis/blob/main/Images/Fig2.png)
 
- #### SMOTE Oversampling Model:
+#### SMOTE Oversampling Model:
  - Balanced Accuracy Score = 66%
 
 ![Fig3](https://github.com/LLeyva-bot/Credit_Risk_Analysis/blob/main/Images/Fig3.png)
